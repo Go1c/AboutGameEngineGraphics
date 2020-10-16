@@ -1,0 +1,2 @@
+# AboutGameEngineGraphics
+主要是个人收集的一些游戏相关的渲染知识和白嫖圣地
